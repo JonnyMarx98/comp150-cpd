@@ -5,9 +5,10 @@ This was my fist week at university, the induction week, or as most students cal
 
 ## Week 2 – 19th September 
 This week started with our fist official principles of computing lecture on Monday.  In this lecture I learnt about the history of computation and video games as well as the different programming languages and paradigms. For the rest of the week consisted of the Lego Robot Challenge which was an introduction to some simple programming in the form of visual programming in addition to being an ice breaker for the class. We were put into teams and worked together to create a robot that could complete a set of space challenges. This taught us about how to work in teams effectively which is useful for future team projects. In my team I was doing the majority of the visual programming which was quite satisfying as it is hard to make any errors so you would have a working program in no time, however it can become quite repetitive when trying to accurately navigate the robot to complete the challenges. I found the first couple of sessions enjoyable but I was eager to start actual programming and lessons after that.  
+What I found challenging was trying to figure out the programming of the robot. I overcame this by attempting lots of different things and seeing what they did so I had an idea of what each thing did in the program. From there I was able to complete the space challenges fairly easily. 
 
-## Week 3 - 26th September
-
+## Week 3 - 26th September 
+During this week we were put into groups and were told to design a board game based around a card with a game type, for example race to the end. The first challenge we encountered was time management. We were given some time to design the game and create a prototype for it, we spent a long time coming up with ideas but then when we were told we only had 10 minutes left we had to rush to make the prototype. We managed to make the prototype by quickly deciding which ideas to use rather than trying to think about how they would make the game different. 
 
 ## Week 4 - 3rd October
 
