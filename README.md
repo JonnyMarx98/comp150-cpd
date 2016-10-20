@@ -8,13 +8,13 @@ This week started with our fist official principles of computing lecture on Mond
 What I found challenging was trying to figure out the programming of the robot. I overcame this by attempting lots of different things and seeing what they did so I had an idea of what each thing did in the program. From there I was able to complete the space challenges fairly easily. 
 
 ## Week 3 - 26th September 
-During this week we were put into groups and were told to design a board game based around a card with a game type, for example race to the end. The first challenge we encountered was time management. We were given some time to design the game and create a prototype for it, we spent a long time coming up with ideas but then when we were told we only had 10 minutes left we had to rush to make the prototype. We managed to make the prototype by quickly deciding which ideas to use rather than trying to think about how they would make the game different. 
+During this week we were put into groups and were told to design a board game based around a card with a game type on it, for example race to the end. The first challenge we encountered was time management. We were given some time to design the game and create a prototype for it, we spent a long time coming up with ideas but then when we were told we only had 10 minutes left we had to rush to make the prototype. We managed to make the prototype by quickly deciding which ideas to use rather than trying to think about how they would make the game different. In the second half o the lesson we made another board game but had much more time so time management wasn't a problem. Myself and my group were quite proud of the board game, melon colony, we ended up creating, one of us liked it so much they spent some time making it in pygame over the weekend. 
 
-## Week 4 - 3rd October
+## Week 4 - 3rd October 
+This week started with a lecture about algorithms and annotations which I found quite simple since I had previously learnt about flowcharts and pseudocode at A-Level. We then learnt about agile game development which was quite complex and I didn't understand some of the wording used at the start, such as user story. At the end of the lecture Michael put a definition of user story on the board which made my understanding of what he was talking about before a lot clearer. We were introduced to pygame and briefly shown how to tinker text. I found it quite challenging when I first started trying it for myself, however after some messing around with numbers I ended up with a very large rectangle with the words 'JOHN CENA' in them which I found quite fun. 
 
+## Week 5 – 10th October 
+This week started with another simple lecture about computer logic and memory which I have learnt before. Some of it was new information to me though, so the lectures are still very useful to me. We had our first tinkering graphics workshop this week which I was finding very challenging. I couldn't get my program to work for a while so I asked my course mates how they were doing it and they pointed me in the right direction. I was happy with my program which could change the colours of a rectangle and have a harambe appear on the screen. Other than I had no problems that week.  
 
-## Week 5 - 10th October
-
-
-## Week 6 = 17th October
-
+# Week 6 – 17th October  
+Despite already learning a bit about algorithm complexities, unlike the other monday lectures this one was quite confusing. I think I understood it all quite well, it just took some time to get my head around it, especially with worksheet C. Attempting to complete worksheet C was definitely the biggest challenge I had this week, myself and a course mates spent ages trying to understand one part of the worksheet. In the second tinkering graphics workshop I managed to complete the first task which was calculating colour distance quite easily, but the other tasks I found very challenging and didn't get any to work. After struggling for a while I had a look at someone else's solution on slack to try and understand how to do it.
