@@ -36,3 +36,9 @@ Not being a very good programmer yet I found keeping up with what my game develo
 
 ## Week 10 – 14th November 
 In this week we were introduced to git branching and testing using TravisCI. I found both very confusing and I am still not sure how either work. In class we did a git branching activity online which I found quite useful but I still don't fully understand it. To hopefully gain a better understanding of git branching and testing so I can use it in my work I will complete more of the git branching tutorials on http://learngitbranching.js.org/ and enter the "Git-Game". 
+
+# Week 11 – 21st November 
+In this week we had our last tinkering audio lecture, during this we were introduced to some new algorithms such as creating an echo. I found it hard to implement these algorithms into my code and didn't have any new working algorithms by the end of the lecture. We were also introduced to C++ programming and having never seen or used C++ before it looked quite overwhelming. I don't think I took in everything that we learnt in that session so I need to go back over it in my own time.  
+
+# Week 12 – 28th November 
+This week I found some of the mathematics for computing a little bit hard to get my head around, however I believe I understood it all quite well after thinking about it since I answered all the socrative questions correctly.
