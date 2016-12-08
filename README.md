@@ -23,19 +23,19 @@ This week started with another simple lecture about computer logic and memory wh
 ## Week 6 – 17th October   
 Despite already learning a bit about algorithm complexities, unlike the other monday lectures this one was quite confusing. I think I understood it all quite well, it just took some time to get my head around it, especially with worksheet C. Attempting to complete worksheet C was definitely the biggest challenge I had this week, myself and a course mates spent ages trying to understand one part of the worksheet. In the second tinkering graphics workshop I managed to complete the first task which was calculating colour distance quite easily, but the other tasks I found very challenging and didn't get any to work. After struggling for a while I had a look at someone else's solution on slack to try and understand how to do it. 
  
-# Week 7 – 24th October 
+## Week 7 – 24th October 
 In the Comp 110 lecture on Monday we were introduced to object oriented programming and how to make code more efficient by using it. I found the live coding example very useful but I still found it quite challenging to understand everything that was going on. I had another read through the program after the lecture which helped me understand it a bit more. I have been struggling with the tinkering graphics assignment as well, I have decided that I am going to spend more of my free time programming and working on the assignment which should definitely help. Probably the biggest challenge I had this week was attempting to read the 3rd research paper and trying to come up with a research question for my agile essay. To overcome this I need to go over the paper again and do some more research into different aspects of agile development. 
 
 ## Week 8 – 31st October 
 The biggest challenge of this week was deciding a research question for my agile essay and preparing a presentation about it. I still didn't have a question at the start of the week so I spent some time researching several aspects of agile to find a question. I also found the presentation very hard because I'm not very good at talking in front of lots of people, I am often very quiet and stutter sometimes. This happened when presenting my agile question. In future I will prepare myself more for presenting by learning what I need to say rather than reading of the screen and by speaking louder and more confidently.  
 
-# Week 9 - 7th November 
+## Week 9 - 7th November 
 Not being a very good programmer yet I found keeping up with what my game development team was doing was a challenge this week. I did however manage to add a slow down collision detection algorithm into the game which will be very useful for a lot of features in the game. I am going to do at least half an hour of extra programming practice each day along with the practice I already get from working on the programming assignments. I am also going to attend all the programming drop in sessions. This should help me become a better programmer which will prevent me from falling behind on assignments that include programming, like the game development project.   
 
 ## Week 10 – 14th November 
 In this week we were introduced to git branching and testing using TravisCI. I found both very confusing and I am still not sure how either work. In class we did a git branching activity online which I found quite useful but I still don't fully understand it. To hopefully gain a better understanding of git branching and testing so I can use it in my work I will complete more of the git branching tutorials on http://learngitbranching.js.org/ and enter the "Git-Game".  
 
-# Week 11 – 21st November 
+## Week 11 – 21st November 
 In this week we had our last tinkering audio lecture, during this we were introduced to some new algorithms such as creating an echo. I found it hard to implement these algorithms into my code and didn't have any new working algorithms by the end of the lecture. We were also introduced to C++ programming and having never seen or used C++ before it looked quite overwhelming. I don't think I took in everything that we learnt in that session so I need to go back over it in my own time.  
 
 ## Week 12 – 28th November 
