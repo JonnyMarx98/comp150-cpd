@@ -39,4 +39,16 @@ In this week we were introduced to git branching and testing using TravisCI. I f
 In this week we had our last tinkering audio lecture, during this we were introduced to some new algorithms such as creating an echo. I found it hard to implement these algorithms into my code and didn't have any new working algorithms by the end of the lecture. We were also introduced to C++ programming and having never seen or used C++ before it looked quite overwhelming. I don't think I took in everything that we learnt in that session so I need to go back over it in my own time.  
 
 ## Week 12 – 28th November 
-This week I found some of the mathematics for computing a little bit hard to get my head around, however I believe I understood it all quite well after thinking about it since I answered all the socrative questions correctly. Another thing I found hard was tinkering audio, now that my essays were submitted I was focusing on tinkering audio and my game. Working on the game wasn't too challenging, however the tinkering audio programming was very complicated and it took me a long time to implement working algorithms. To improve on this I will continue to practice and hopefully I will gain a better understanding of tinkering audio and create multiple algorithms.  
+This week I found some of the mathematics for computing a little bit hard to get my head around, however I believe I understood it all quite well after thinking about it since I answered all the socrative questions correctly. Another thing I found hard was tinkering audio, now that my essays were submitted I was focusing on tinkering audio and my game. Working on the game wasn't too challenging, however the tinkering audio programming was very complicated and it took me a long time to implement working algorithms. To improve on this I will continue to practice and hopefully I will gain a better understanding of tinkering audio and create multiple algorithms. 
+
+# Comp 160 CPD
+
+## Week 1
+This week the biggest problem was learning to program in C++, it is a big step forward from python. I found worksheet A very hard to do at first because I hadn’t done many tutorials on C++. 
+After watching a few tutorials on pluralsight a eventually got it to work. I plan to do some more tutorials on pluralsight to help with worksheet B.
+
+## Week 2
+This week I found worksheet B quite challenging, I wasn’t sure how to implement it at all. After I asked brian for some help and had a look at one of my classmates code I understood how to implement it. I’m still finding it hard to get to grips with C++ however which is something I definitely need to work on. To do this  I will continue working through the “Learn to program with C++” course on pluralsight.
+
+## Week 3
+I started working on Worksheet C during the weeks before teaching,  I implemented the grenade launcher using blueprints as It is easier to pick up than C++. This week I wanted to implement something in C++ but when I tried it i found that I had no idea what I was doing. I looked at some tutorials to help me out and I heard the battery collector tutorials are good for learning so I will watch them in future. 
