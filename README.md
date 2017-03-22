@@ -51,4 +51,30 @@ After watching a few tutorials on pluralsight a eventually got it to work. I pla
 This week I found worksheet B quite challenging, I wasn’t sure how to implement it at all. After I asked brian for some help and had a look at one of my classmates code I understood how to implement it. I’m still finding it hard to get to grips with C++ however which is something I definitely need to work on. To do this  I will continue working through the “Learn to program with C++” course on pluralsight.
 
 ## Week 3
-I started working on Worksheet C during the weeks before teaching,  I implemented the grenade launcher using blueprints as It is easier to pick up than C++. This week I wanted to implement something in C++ but when I tried it i found that I had no idea what I was doing. I looked at some tutorials to help me out and I heard the battery collector tutorials are good for learning so I will watch them in future. 
+I started working on worksheet C during the weeks before teaching,  I implemented the grenade launcher using blueprints as It is easier to pick up than C++. This week I wanted to implement something in C++ but when I tried it i found that I had no idea what I was doing. I looked at some tutorials to help me out and I heard the battery collector tutorials are good for learning so I will watch them in future. Another problem I had was spawning multiple AI so I will see if I can find some help online with that. 
+
+## Week 4
+Having watched some C++ tutorials I implemented raycasting into my worksheet C game in C++. Adding the raycast wasn't too challenging but trying to make it possible to switch between firing the grenade launcher and the raycast seemed impossible. I believe the problem was that I implemented the launcher in blueprints and the raycast in C++ so I decided to just change the button for the raycast so you could fire both. I learned that it is hard to connect C++ code to blueprint code. I also figured out how to make my AI spawn randomly in a specified area which I was really happy with.  
+
+## Week 5
+This week we were introduced to databases and SQL in our software engineering session. I have learnt about SQL and databases before I came here so a lot of it was relearning and refreshing my memory, which suprisingly was quite challenging because I didn't remember much. For the majority of this week I was attempting to fix a puzzle in my team game. It involved pushing a button which drops a wall to release some boulders into a pit trap to allow the player to cross it. The problem was I couldn't get the boulders to act like they weighed anyhting so when you jumped on them it was like jumping on a beach ball. I came up with a temporary fix which disabled the physics on the boulders when they land in the pit trap to stop them being movable.  
+
+## Week 6
+This week we were introduced to the basics of the arduino in our comp140 session, this was something I had been looking forward to. Although I enjoyed it was a bit frustrating trying to figure out why it wasn't working, eventually I was told by a class mate that my breadboard was upside down. 
+
+## Week 7
+
+
+## Week 8
+
+
+## Week 9
+
+
+## Week 10
+
+
+## Week 11
+
+
+## Week 12
