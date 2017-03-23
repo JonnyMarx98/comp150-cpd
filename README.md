@@ -69,7 +69,7 @@ With the viva session coming up at the end of the week I spent a lot of this wee
 This week I focussed on my software engineering essay a lot more than I had been in previous weeks. Before this week I only had an introduction to my essay so I had to rush a little to get a draft ready for next week. This happened last term with my agile essay and is something I really need to work on. Next year I plan to alleviate this problem by setting myself certain days to work on each of my assignments, that way I won't leave the essays til the last few weeks. 
 
 ## Week 9
-
+During this week our team had a big issue with some conflicting levels in our game. We had 3 versions of our level at one point because 3 of us added stuff to it at the same time, which in hindsight was a really unintelligent idea. 
 
 ## Week 10
 
