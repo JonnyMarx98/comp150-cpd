@@ -60,13 +60,13 @@ Having watched some C++ tutorials I implemented raycasting into my worksheet C g
 This week we were introduced to databases and SQL in our software engineering session. I have learnt about SQL and databases before I came here so a lot of it was relearning and refreshing my memory, which suprisingly was quite challenging because I didn't remember much. For the majority of this week I was attempting to fix a puzzle in my team game. It involved pushing a button which drops a wall to release some boulders into a pit trap to allow the player to cross it. The problem was I couldn't get the boulders to act like they weighed anyhting so when you jumped on them it was like jumping on a beach ball. I came up with a temporary fix which disabled the physics on the boulders when they land in the pit trap to stop them being movable.  
 
 ## Week 6
-This week we were introduced to the basics of the arduino in our comp140 session, this was something I had been looking forward to. Although I enjoyed it was a bit frustrating trying to figure out why it wasn't working, eventually I was told by a class mate that my breadboard was upside down. 
+This week we were introduced to the basics of the arduino in our comp140 session, this was something I had been looking forward to. Although I enjoyed it was a bit frustrating trying to figure out why it wasn't working, eventually I was told by a class mate that my breadboard was upside down. For the comp160 session this week we learnt about UNIX servers and remote databases. We had to set up remote servers in our teams and it was a lot harder than I thought it would be, it took us a long time to get it working.
 
 ## Week 7
-
+With the viva session coming up at the end of the week I spent a lot of this week working on my comp140 game. Implemented a grinding feature was the biggest challenge with this, I tried quite a few different ways to make it work myself without any help but it just wasn't working how I wanted it to. I decided to look online for some advice and found a good solution however there was still a problem with having more than one grind rail in the game. I plan to fix this issue as soon as possible as I want grinding to be one of the core mechanics of the game. 
 
 ## Week 8
-
+This week I focussed on my software engineering essay a lot more than I had been in previous weeks. Before this week I only had an introduction to my essay so I had to rush a little to get a draft ready for next week. This happened last term with my agile essay and is something I really need to work on. Next year I plan to alleviate this problem by setting myself certain days to work on each of my assignments, that way I won't leave the essays til the last few weeks. 
 
 ## Week 9
 
