@@ -72,9 +72,10 @@ This week I focussed on my software engineering essay a lot more than I had been
 During this week our team had a big issue with some conflicting levels in our game. We had 3 versions of our level at one point because 3 of us added stuff to it at the same time, which in hindsight was a really unintelligent idea. 
 
 ## Week 10
-
+I spent the majority of this week working on my software engineering essay and my research journal. I had not done as much work on these essays as I should have so I had to do a lot of work this week. I found it hard to know what to write because of the little research I had done, this meant I had to do some more research I read some more papers before I could write anything meaningful. This was a very challenging and stressful week for me. Hopefully I can avoid this kind of week next year by working more on my essays each week. 
 
 ## Week 11
-
+Now that my essays were out the way I starting wokring on my arudino project more. I was able to finally output values to the screen with my gyroscope/accelerometer but I had no idea how to get these values into the unreal engine. I spent a lot of time trying to figure this out but had no luck. 
 
 ## Week 12
+Over the easter I managed to get my arduino working with my game but only to move my character left and right. I was finding it very hard to figure out how to use multiple values and split them up in engine. After some time I enventually figured it out but was still having some minor problems. 
